@@ -95,6 +95,23 @@ or
 $ tail -f job_output.txt
 ```
 
+## Reference 
+
+https://link.springer.com/article/10.1007/s00521-024-10841-8
+
+```
+@article{nascimento2025gender,
+  title={Gender bias detection on hate speech classification: an analysis at feature-level},
+  author={Nascimento, Francimaria RS and Cavalcanti, George DC and Costa-Abreu, Marjory Da},
+  journal={Neural Computing and Applications},
+  volume={37},
+  number={5},
+  pages={3887--3905},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 
 
 
