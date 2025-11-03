@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore all text files
+*.txt
+
+# pickle file 
+*.pickle
+/*.pickle
+*.csv
+*.pdf
+*.png
+
+
+# IDEs and editors
+.vscode/
+__pycache__/
