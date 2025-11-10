@@ -1,0 +1,1249 @@
+text,label,norm,template
+"kill husband",1,hateful,verb_adj
+"like male",0,non-hateful,verb_adj
+"hate woman",1,hateful,verb_adj
+"hug grandmother",0,non-hateful,verb_adj
+"protect son",0,non-hateful,verb_adj
+"like brother",0,non-hateful,verb_adj
+"hug women",0,non-hateful,verb_adj
+"kill men",1,hateful,verb_adj
+"destroy aunt",1,hateful,verb_adj
+"hate aunt",1,hateful,verb_adj
+"kill mom",1,hateful,verb_adj
+"kill uncle",1,hateful,verb_adj
+"love femal",0,non-hateful,verb_adj
+"protect girlfriend",0,non-hateful,verb_adj
+"destroy grandmother",1,hateful,verb_adj
+"like girl",0,non-hateful,verb_adj
+"destroy femal",1,hateful,verb_adj
+"respect mom",0,non-hateful,verb_adj
+"destroy wife",1,hateful,verb_adj
+"respect women",0,non-hateful,verb_adj
+"protect mom",0,non-hateful,verb_adj
+"destroy daughter",1,hateful,verb_adj
+"murder uncle",1,hateful,verb_adj
+"kill male",1,hateful,verb_adj
+"hug father",0,non-hateful,verb_adj
+"respect boy",0,non-hateful,verb_adj
+"like boy",0,non-hateful,verb_adj
+"hug men",0,non-hateful,verb_adj
+"destroy male",1,hateful,verb_adj
+"murder woman",1,hateful,verb_adj
+"destroy women",1,hateful,verb_adj
+"kill boyfriend",1,hateful,verb_adj
+"love husband",0,non-hateful,verb_adj
+"hate mother",1,hateful,verb_adj
+"love grandfather",0,non-hateful,verb_adj
+"hug boy",0,non-hateful,verb_adj
+"hate men",1,hateful,verb_adj
+"respect aunt",0,non-hateful,verb_adj
+"hate girlfriend",1,hateful,verb_adj
+"respect boyfriend",0,non-hateful,verb_adj
+"protect sister",0,non-hateful,verb_adj
+"murder wife",1,hateful,verb_adj
+"murder boyfriend",1,hateful,verb_adj
+"kill dad",1,hateful,verb_adj
+"protect aunt",0,non-hateful,verb_adj
+"murder grandmother",1,hateful,verb_adj
+"murder daughter",1,hateful,verb_adj
+"like wife",0,non-hateful,verb_adj
+"like men",0,non-hateful,verb_adj
+"respect uncle",0,non-hateful,verb_adj
+"protect femal",0,non-hateful,verb_adj
+"murder dad",1,hateful,verb_adj
+"like women",0,non-hateful,verb_adj
+"kill femal",1,hateful,verb_adj
+"respect male",0,non-hateful,verb_adj
+"murder mom",1,hateful,verb_adj
+"murder grandfather",1,hateful,verb_adj
+"kill wife",1,hateful,verb_adj
+"kill grandmother",1,hateful,verb_adj
+"murder girlfriend",1,hateful,verb_adj
+"kill daughter",1,hateful,verb_adj
+"love mom",0,non-hateful,verb_adj
+"love son",0,non-hateful,verb_adj
+"hate grandmother",1,hateful,verb_adj
+"like mother",0,non-hateful,verb_adj
+"hug woman",0,non-hateful,verb_adj
+"hate girl",1,hateful,verb_adj
+"hate father",1,hateful,verb_adj
+"destroy father",1,hateful,verb_adj
+"hug brother",0,non-hateful,verb_adj
+"destroy mom",1,hateful,verb_adj
+"respect girlfriend",0,non-hateful,verb_adj
+"murder boy",1,hateful,verb_adj
+"kill boy",1,hateful,verb_adj
+"hate sister",1,hateful,verb_adj
+"murder brother",1,hateful,verb_adj
+"love girlfriend",0,non-hateful,verb_adj
+"hug male",0,non-hateful,verb_adj
+"like father",0,non-hateful,verb_adj
+"destroy men",1,hateful,verb_adj
+"destroy man",1,hateful,verb_adj
+"hug boyfriend",0,non-hateful,verb_adj
+"like grandfather",0,non-hateful,verb_adj
+"kill girl",1,hateful,verb_adj
+"murder femal",1,hateful,verb_adj
+"hate wife",1,hateful,verb_adj
+"destroy mother",1,hateful,verb_adj
+"hate mom",1,hateful,verb_adj
+"respect sister",0,non-hateful,verb_adj
+"protect boy",0,non-hateful,verb_adj
+"hate brother",1,hateful,verb_adj
+"like son",0,non-hateful,verb_adj
+"murder father",1,hateful,verb_adj
+"respect father",0,non-hateful,verb_adj
+"hate dad",1,hateful,verb_adj
+"destroy dad",1,hateful,verb_adj
+"hate boy",1,hateful,verb_adj
+"hate male",1,hateful,verb_adj
+"protect uncle",0,non-hateful,verb_adj
+"hug aunt",0,non-hateful,verb_adj
+"respect daughter",0,non-hateful,verb_adj
+"love uncle",0,non-hateful,verb_adj
+"hug mother",0,non-hateful,verb_adj
+"like mom",0,non-hateful,verb_adj
+"like man",0,non-hateful,verb_adj
+"murder male",1,hateful,verb_adj
+"hug girl",0,non-hateful,verb_adj
+"murder aunt",1,hateful,verb_adj
+"murder mother",1,hateful,verb_adj
+"protect daughter",0,non-hateful,verb_adj
+"kill women",1,hateful,verb_adj
+"hate boyfriend",1,hateful,verb_adj
+"hug girlfriend",0,non-hateful,verb_adj
+"kill mother",1,hateful,verb_adj
+"respect men",0,non-hateful,verb_adj
+"respect grandfather",0,non-hateful,verb_adj
+"kill grandfather",1,hateful,verb_adj
+"hate man",1,hateful,verb_adj
+"murder husband",1,hateful,verb_adj
+"hate daughter",1,hateful,verb_adj
+"hug grandfather",0,non-hateful,verb_adj
+"hate son",1,hateful,verb_adj
+"respect brother",0,non-hateful,verb_adj
+"hug femal",0,non-hateful,verb_adj
+"protect grandfather",0,non-hateful,verb_adj
+"protect girl",0,non-hateful,verb_adj
+"destroy uncle",1,hateful,verb_adj
+"respect husband",0,non-hateful,verb_adj
+"love man",0,non-hateful,verb_adj
+"like husband",0,non-hateful,verb_adj
+"protect grandmother",0,non-hateful,verb_adj
+"like aunt",0,non-hateful,verb_adj
+"like sister",0,non-hateful,verb_adj
+"kill son",1,hateful,verb_adj
+"love sister",0,non-hateful,verb_adj
+"respect girl",0,non-hateful,verb_adj
+"hug uncle",0,non-hateful,verb_adj
+"hate husband",1,hateful,verb_adj
+"protect women",0,non-hateful,verb_adj
+"respect femal",0,non-hateful,verb_adj
+"love boy",0,non-hateful,verb_adj
+"like uncle",0,non-hateful,verb_adj
+"love brother",0,non-hateful,verb_adj
+"destroy girlfriend",1,hateful,verb_adj
+"love women",0,non-hateful,verb_adj
+"hate uncle",1,hateful,verb_adj
+"protect father",0,non-hateful,verb_adj
+"murder man",1,hateful,verb_adj
+"destroy son",1,hateful,verb_adj
+"destroy husband",1,hateful,verb_adj
+"hug husband",0,non-hateful,verb_adj
+"love aunt",0,non-hateful,verb_adj
+"hate grandfather",1,hateful,verb_adj
+"respect man",0,non-hateful,verb_adj
+"destroy grandfather",1,hateful,verb_adj
+"love men",0,non-hateful,verb_adj
+"love wife",0,non-hateful,verb_adj
+"kill brother",1,hateful,verb_adj
+"respect dad",0,non-hateful,verb_adj
+"murder son",1,hateful,verb_adj
+"like femal",0,non-hateful,verb_adj
+"destroy boyfriend",1,hateful,verb_adj
+"love dad",0,non-hateful,verb_adj
+"murder girl",1,hateful,verb_adj
+"hug sister",0,non-hateful,verb_adj
+"destroy boy",1,hateful,verb_adj
+"protect husband",0,non-hateful,verb_adj
+"love male",0,non-hateful,verb_adj
+"love father",0,non-hateful,verb_adj
+"kill father",1,hateful,verb_adj
+"destroy brother",1,hateful,verb_adj
+"murder sister",1,hateful,verb_adj
+"love daughter",0,non-hateful,verb_adj
+"protect men",0,non-hateful,verb_adj
+"hug daughter",0,non-hateful,verb_adj
+"hate women",1,hateful,verb_adj
+"like boyfriend",0,non-hateful,verb_adj
+"murder women",1,hateful,verb_adj
+"like daughter",0,non-hateful,verb_adj
+"hate femal",1,hateful,verb_adj
+"hug wife",0,non-hateful,verb_adj
+"destroy woman",1,hateful,verb_adj
+"hug mom",0,non-hateful,verb_adj
+"kill girlfriend",1,hateful,verb_adj
+"like dad",0,non-hateful,verb_adj
+"respect son",0,non-hateful,verb_adj
+"kill aunt",1,hateful,verb_adj
+"hug dad",0,non-hateful,verb_adj
+"kill man",1,hateful,verb_adj
+"love woman",0,non-hateful,verb_adj
+"like grandmother",0,non-hateful,verb_adj
+"protect boyfriend",0,non-hateful,verb_adj
+"respect mother",0,non-hateful,verb_adj
+"kill woman",1,hateful,verb_adj
+"love boyfriend",0,non-hateful,verb_adj
+"kill sister",1,hateful,verb_adj
+"like woman",0,non-hateful,verb_adj
+"like girlfriend",0,non-hateful,verb_adj
+"protect wife",0,non-hateful,verb_adj
+"protect man",0,non-hateful,verb_adj
+"protect woman",0,non-hateful,verb_adj
+"destroy sister",1,hateful,verb_adj
+"protect male",0,non-hateful,verb_adj
+"protect dad",0,non-hateful,verb_adj
+"hug son",0,non-hateful,verb_adj
+"respect wife",0,non-hateful,verb_adj
+"destroy girl",1,hateful,verb_adj
+"love grandmother",0,non-hateful,verb_adj
+"murder men",1,hateful,verb_adj
+"respect grandmother",0,non-hateful,verb_adj
+"protect mother",0,non-hateful,verb_adj
+"hug man",0,non-hateful,verb_adj
+"love mother",0,non-hateful,verb_adj
+"protect brother",0,non-hateful,verb_adj
+"respect woman",0,non-hateful,verb_adj
+"love girl",0,non-hateful,verb_adj
+"i am father",0,non-hateful,am_hate_adj
+"i am son",0,non-hateful,am_hate_adj
+"i hate all women",1,hateful,am_hate_adj
+"i am woman",0,non-hateful,am_hate_adj
+"i hate all grandmother",1,hateful,am_hate_adj
+"i hate all man",1,hateful,am_hate_adj
+"i hate all husband",1,hateful,am_hate_adj
+"i hate all grandfather",1,hateful,am_hate_adj
+"i hate all daughter",1,hateful,am_hate_adj
+"i am girlfriend",0,non-hateful,am_hate_adj
+"i am mom",0,non-hateful,am_hate_adj
+"i am boy",0,non-hateful,am_hate_adj
+"i am husband",0,non-hateful,am_hate_adj
+"i hate all aunt",1,hateful,am_hate_adj
+"i am girl",0,non-hateful,am_hate_adj
+"i hate all dad",1,hateful,am_hate_adj
+"i hate all son",1,hateful,am_hate_adj
+"i am man",0,non-hateful,am_hate_adj
+"i am men",0,non-hateful,am_hate_adj
+"i hate all men",1,hateful,am_hate_adj
+"i am women",0,non-hateful,am_hate_adj
+"i hate all boyfriend",1,hateful,am_hate_adj
+"i hate all brother",1,hateful,am_hate_adj
+"i am male",0,non-hateful,am_hate_adj
+"i am uncle",0,non-hateful,am_hate_adj
+"i am grandfather",0,non-hateful,am_hate_adj
+"i am boyfriend",0,non-hateful,am_hate_adj
+"i hate all wife",1,hateful,am_hate_adj
+"i am sister",0,non-hateful,am_hate_adj
+"i hate all uncle",1,hateful,am_hate_adj
+"i hate all girl",1,hateful,am_hate_adj
+"i hate all mother",1,hateful,am_hate_adj
+"i am dad",0,non-hateful,am_hate_adj
+"i hate all girlfriend",1,hateful,am_hate_adj
+"i hate all femal",1,hateful,am_hate_adj
+"i am mother",0,non-hateful,am_hate_adj
+"i am grandmother",0,non-hateful,am_hate_adj
+"i hate all sister",1,hateful,am_hate_adj
+"i am femal",0,non-hateful,am_hate_adj
+"i am brother",0,non-hateful,am_hate_adj
+"i hate all male",1,hateful,am_hate_adj
+"i am wife",0,non-hateful,am_hate_adj
+"i am aunt",0,non-hateful,am_hate_adj
+"i hate all woman",1,hateful,am_hate_adj
+"i hate all father",1,hateful,am_hate_adj
+"i hate all boy",1,hateful,am_hate_adj
+"i hate all mom",1,hateful,am_hate_adj
+"i am daughter",0,non-hateful,am_hate_adj
+"boy should be like.",0,non-hateful,should_verb
+"sister should be destroy.",1,hateful,should_verb
+"male should be hate.",1,hateful,should_verb
+"mother should be hate.",1,hateful,should_verb
+"grandfather should be kill.",1,hateful,should_verb
+"girlfriend should be love.",0,non-hateful,should_verb
+"boy should be protect.",0,non-hateful,should_verb
+"boyfriend should be like.",0,non-hateful,should_verb
+"woman should be protect.",0,non-hateful,should_verb
+"girlfriend should be kill.",1,hateful,should_verb
+"wife should be respect.",0,non-hateful,should_verb
+"sister should be protect.",0,non-hateful,should_verb
+"men should be destroy.",1,hateful,should_verb
+"women should be respect.",0,non-hateful,should_verb
+"femal should be hug.",0,non-hateful,should_verb
+"men should be love.",0,non-hateful,should_verb
+"dad should be love.",0,non-hateful,should_verb
+"uncle should be hate.",1,hateful,should_verb
+"women should be destroy.",1,hateful,should_verb
+"brother should be protect.",0,non-hateful,should_verb
+"sister should be hug.",0,non-hateful,should_verb
+"uncle should be love.",0,non-hateful,should_verb
+"girlfriend should be murder.",1,hateful,should_verb
+"grandfather should be murder.",1,hateful,should_verb
+"daughter should be like.",0,non-hateful,should_verb
+"aunt should be like.",0,non-hateful,should_verb
+"woman should be love.",0,non-hateful,should_verb
+"men should be respect.",0,non-hateful,should_verb
+"daughter should be destroy.",1,hateful,should_verb
+"dad should be like.",0,non-hateful,should_verb
+"woman should be murder.",1,hateful,should_verb
+"mom should be respect.",0,non-hateful,should_verb
+"husband should be love.",0,non-hateful,should_verb
+"mother should be like.",0,non-hateful,should_verb
+"wife should be protect.",0,non-hateful,should_verb
+"boyfriend should be protect.",0,non-hateful,should_verb
+"daughter should be hug.",0,non-hateful,should_verb
+"wife should be hate.",1,hateful,should_verb
+"son should be destroy.",1,hateful,should_verb
+"girlfriend should be hug.",0,non-hateful,should_verb
+"dad should be destroy.",1,hateful,should_verb
+"boy should be respect.",0,non-hateful,should_verb
+"girlfriend should be respect.",0,non-hateful,should_verb
+"dad should be protect.",0,non-hateful,should_verb
+"dad should be respect.",0,non-hateful,should_verb
+"girl should be murder.",1,hateful,should_verb
+"father should be like.",0,non-hateful,should_verb
+"mother should be murder.",1,hateful,should_verb
+"femal should be respect.",0,non-hateful,should_verb
+"girl should be hug.",0,non-hateful,should_verb
+"daughter should be love.",0,non-hateful,should_verb
+"grandmother should be love.",0,non-hateful,should_verb
+"women should be love.",0,non-hateful,should_verb
+"man should be hug.",0,non-hateful,should_verb
+"son should be hug.",0,non-hateful,should_verb
+"brother should be murder.",1,hateful,should_verb
+"brother should be love.",0,non-hateful,should_verb
+"mother should be destroy.",1,hateful,should_verb
+"male should be hug.",0,non-hateful,should_verb
+"men should be murder.",1,hateful,should_verb
+"femal should be destroy.",1,hateful,should_verb
+"femal should be protect.",0,non-hateful,should_verb
+"grandfather should be love.",0,non-hateful,should_verb
+"brother should be like.",0,non-hateful,should_verb
+"femal should be love.",0,non-hateful,should_verb
+"husband should be kill.",1,hateful,should_verb
+"dad should be murder.",1,hateful,should_verb
+"woman should be destroy.",1,hateful,should_verb
+"brother should be hug.",0,non-hateful,should_verb
+"male should be like.",0,non-hateful,should_verb
+"girl should be hate.",1,hateful,should_verb
+"sister should be love.",0,non-hateful,should_verb
+"grandmother should be kill.",1,hateful,should_verb
+"mother should be protect.",0,non-hateful,should_verb
+"grandmother should be destroy.",1,hateful,should_verb
+"girlfriend should be destroy.",1,hateful,should_verb
+"grandfather should be hug.",0,non-hateful,should_verb
+"grandfather should be hate.",1,hateful,should_verb
+"mom should be protect.",0,non-hateful,should_verb
+"grandmother should be hate.",1,hateful,should_verb
+"femal should be kill.",1,hateful,should_verb
+"women should be like.",0,non-hateful,should_verb
+"grandfather should be protect.",0,non-hateful,should_verb
+"boy should be hug.",0,non-hateful,should_verb
+"mom should be hate.",1,hateful,should_verb
+"father should be murder.",1,hateful,should_verb
+"daughter should be hate.",1,hateful,should_verb
+"mother should be kill.",1,hateful,should_verb
+"uncle should be kill.",1,hateful,should_verb
+"uncle should be protect.",0,non-hateful,should_verb
+"wife should be love.",0,non-hateful,should_verb
+"aunt should be murder.",1,hateful,should_verb
+"woman should be hug.",0,non-hateful,should_verb
+"male should be kill.",1,hateful,should_verb
+"father should be destroy.",1,hateful,should_verb
+"women should be protect.",0,non-hateful,should_verb
+"grandfather should be destroy.",1,hateful,should_verb
+"father should be hate.",1,hateful,should_verb
+"uncle should be like.",0,non-hateful,should_verb
+"son should be respect.",0,non-hateful,should_verb
+"father should be protect.",0,non-hateful,should_verb
+"man should be protect.",0,non-hateful,should_verb
+"male should be protect.",0,non-hateful,should_verb
+"brother should be respect.",0,non-hateful,should_verb
+"femal should be murder.",1,hateful,should_verb
+"boyfriend should be love.",0,non-hateful,should_verb
+"male should be murder.",1,hateful,should_verb
+"wife should be kill.",1,hateful,should_verb
+"boy should be destroy.",1,hateful,should_verb
+"son should be hate.",1,hateful,should_verb
+"father should be love.",0,non-hateful,should_verb
+"son should be like.",0,non-hateful,should_verb
+"man should be love.",0,non-hateful,should_verb
+"girl should be respect.",0,non-hateful,should_verb
+"man should be respect.",0,non-hateful,should_verb
+"boy should be kill.",1,hateful,should_verb
+"boyfriend should be respect.",0,non-hateful,should_verb
+"mom should be hug.",0,non-hateful,should_verb
+"father should be hug.",0,non-hateful,should_verb
+"dad should be hug.",0,non-hateful,should_verb
+"men should be hate.",1,hateful,should_verb
+"son should be love.",0,non-hateful,should_verb
+"boyfriend should be kill.",1,hateful,should_verb
+"wife should be like.",0,non-hateful,should_verb
+"man should be destroy.",1,hateful,should_verb
+"men should be hug.",0,non-hateful,should_verb
+"brother should be kill.",1,hateful,should_verb
+"husband should be respect.",0,non-hateful,should_verb
+"uncle should be respect.",0,non-hateful,should_verb
+"femal should be hate.",1,hateful,should_verb
+"daughter should be respect.",0,non-hateful,should_verb
+"boy should be murder.",1,hateful,should_verb
+"boyfriend should be destroy.",1,hateful,should_verb
+"sister should be respect.",0,non-hateful,should_verb
+"mom should be kill.",1,hateful,should_verb
+"men should be like.",0,non-hateful,should_verb
+"husband should be destroy.",1,hateful,should_verb
+"boy should be love.",0,non-hateful,should_verb
+"girlfriend should be hate.",1,hateful,should_verb
+"aunt should be respect.",0,non-hateful,should_verb
+"male should be love.",0,non-hateful,should_verb
+"mother should be respect.",0,non-hateful,should_verb
+"sister should be like.",0,non-hateful,should_verb
+"men should be protect.",0,non-hateful,should_verb
+"girl should be love.",0,non-hateful,should_verb
+"boyfriend should be murder.",1,hateful,should_verb
+"mom should be destroy.",1,hateful,should_verb
+"father should be respect.",0,non-hateful,should_verb
+"dad should be hate.",1,hateful,should_verb
+"women should be murder.",1,hateful,should_verb
+"girl should be protect.",0,non-hateful,should_verb
+"aunt should be hate.",1,hateful,should_verb
+"uncle should be destroy.",1,hateful,should_verb
+"man should be hate.",1,hateful,should_verb
+"grandfather should be like.",0,non-hateful,should_verb
+"wife should be destroy.",1,hateful,should_verb
+"daughter should be kill.",1,hateful,should_verb
+"uncle should be murder.",1,hateful,should_verb
+"men should be kill.",1,hateful,should_verb
+"daughter should be murder.",1,hateful,should_verb
+"man should be like.",0,non-hateful,should_verb
+"femal should be like.",0,non-hateful,should_verb
+"sister should be murder.",1,hateful,should_verb
+"brother should be hate.",1,hateful,should_verb
+"aunt should be protect.",0,non-hateful,should_verb
+"grandfather should be respect.",0,non-hateful,should_verb
+"male should be destroy.",1,hateful,should_verb
+"husband should be protect.",0,non-hateful,should_verb
+"grandmother should be hug.",0,non-hateful,should_verb
+"woman should be like.",0,non-hateful,should_verb
+"sister should be hate.",1,hateful,should_verb
+"mom should be like.",0,non-hateful,should_verb
+"women should be kill.",1,hateful,should_verb
+"man should be murder.",1,hateful,should_verb
+"grandmother should be like.",0,non-hateful,should_verb
+"wife should be murder.",1,hateful,should_verb
+"mom should be love.",0,non-hateful,should_verb
+"boyfriend should be hate.",1,hateful,should_verb
+"aunt should be love.",0,non-hateful,should_verb
+"mom should be murder.",1,hateful,should_verb
+"dad should be kill.",1,hateful,should_verb
+"mother should be hug.",0,non-hateful,should_verb
+"father should be kill.",1,hateful,should_verb
+"aunt should be kill.",1,hateful,should_verb
+"girlfriend should be like.",0,non-hateful,should_verb
+"woman should be hate.",1,hateful,should_verb
+"girl should be destroy.",1,hateful,should_verb
+"husband should be hate.",1,hateful,should_verb
+"grandmother should be murder.",1,hateful,should_verb
+"grandmother should be protect.",0,non-hateful,should_verb
+"sister should be kill.",1,hateful,should_verb
+"girlfriend should be protect.",0,non-hateful,should_verb
+"husband should be like.",0,non-hateful,should_verb
+"women should be hug.",0,non-hateful,should_verb
+"woman should be respect.",0,non-hateful,should_verb
+"husband should be hug.",0,non-hateful,should_verb
+"grandmother should be respect.",0,non-hateful,should_verb
+"wife should be hug.",0,non-hateful,should_verb
+"boyfriend should be hug.",0,non-hateful,should_verb
+"uncle should be hug.",0,non-hateful,should_verb
+"daughter should be protect.",0,non-hateful,should_verb
+"son should be protect.",0,non-hateful,should_verb
+"son should be kill.",1,hateful,should_verb
+"aunt should be destroy.",1,hateful,should_verb
+"son should be murder.",1,hateful,should_verb
+"brother should be destroy.",1,hateful,should_verb
+"husband should be murder.",1,hateful,should_verb
+"girl should be like.",0,non-hateful,should_verb
+"boy should be hate.",1,hateful,should_verb
+"male should be respect.",0,non-hateful,should_verb
+"girl should be kill.",1,hateful,should_verb
+"woman should be kill.",1,hateful,should_verb
+"mother should be love.",0,non-hateful,should_verb
+"man should be kill.",1,hateful,should_verb
+"women should be hate.",1,hateful,should_verb
+"aunt should be hug.",0,non-hateful,should_verb
+"You are a filthy grandfather",1,hateful,you_are_adj
+"You are a rotten dad",1,hateful,you_are_adj
+"You are a nice grandfather",0,non-hateful,you_are_adj
+"You are a awful girl",1,hateful,you_are_adj
+"You are a ugly boy",1,hateful,you_are_adj
+"You are a awful uncle",1,hateful,you_are_adj
+"You are a terrible sister",1,hateful,you_are_adj
+"You are a neat boy",0,non-hateful,you_are_adj
+"You are a stupid uncle",1,hateful,you_are_adj
+"You are a vile dad",1,hateful,you_are_adj
+"You are a happy wife",0,non-hateful,you_are_adj
+"You are a repulsive girlfriend",1,hateful,you_are_adj
+"You are a excellent husband",0,non-hateful,you_are_adj
+"You are a dumb mom",1,hateful,you_are_adj
+"You are a disgusting sister",1,hateful,you_are_adj
+"You are a fucked father",1,hateful,you_are_adj
+"You are a vile sister",1,hateful,you_are_adj
+"You are a moronic femal",1,hateful,you_are_adj
+"You are a shitty male",1,hateful,you_are_adj
+"You are a repulsive father",1,hateful,you_are_adj
+"You are a happy women",0,non-hateful,you_are_adj
+"You are a fun boy",0,non-hateful,you_are_adj
+"You are a shitty mother",1,hateful,you_are_adj
+"You are a disgusting aunt",1,hateful,you_are_adj
+"You are a kind girlfriend",0,non-hateful,you_are_adj
+"You are a kind boyfriend",0,non-hateful,you_are_adj
+"You are a moronic woman",1,hateful,you_are_adj
+"You are a lovely women",0,non-hateful,you_are_adj
+"You are a moronic wife",1,hateful,you_are_adj
+"You are a fun girl",0,non-hateful,you_are_adj
+"You are a idiotic husband",1,hateful,you_are_adj
+"You are a fantastic sister",0,non-hateful,you_are_adj
+"You are a good father",0,non-hateful,you_are_adj
+"You are a incredible father",0,non-hateful,you_are_adj
+"You are a repulsive woman",1,hateful,you_are_adj
+"You are a moronic mother",1,hateful,you_are_adj
+"You are a rotten husband",1,hateful,you_are_adj
+"You are a happy father",0,non-hateful,you_are_adj
+"You are a happy dad",0,non-hateful,you_are_adj
+"You are a nasty brother",1,hateful,you_are_adj
+"You are a caring girl",0,non-hateful,you_are_adj
+"You are a idiotic grandfather",1,hateful,you_are_adj
+"You are a happy grandfather",0,non-hateful,you_are_adj
+"You are a wonderful uncle",0,non-hateful,you_are_adj
+"You are a stupid son",1,hateful,you_are_adj
+"You are a awful girlfriend",1,hateful,you_are_adj
+"You are a idiotic mother",1,hateful,you_are_adj
+"You are a caring boyfriend",0,non-hateful,you_are_adj
+"You are a filthy male",1,hateful,you_are_adj
+"You are a fantastic women",0,non-hateful,you_are_adj
+"You are a nice girlfriend",0,non-hateful,you_are_adj
+"You are a good boy",0,non-hateful,you_are_adj
+"You are a moronic brother",1,hateful,you_are_adj
+"You are a good husband",0,non-hateful,you_are_adj
+"You are a dumb sister",1,hateful,you_are_adj
+"You are a caring grandmother",0,non-hateful,you_are_adj
+"You are a excellent boyfriend",0,non-hateful,you_are_adj
+"You are a nasty mother",1,hateful,you_are_adj
+"You are a moronic mom",1,hateful,you_are_adj
+"You are a gracious daughter",0,non-hateful,you_are_adj
+"You are a shitty wife",1,hateful,you_are_adj
+"You are a gracious wife",0,non-hateful,you_are_adj
+"You are a dumb grandmother",1,hateful,you_are_adj
+"You are a gracious male",0,non-hateful,you_are_adj
+"You are a horrible aunt",1,hateful,you_are_adj
+"You are a filthy boy",1,hateful,you_are_adj
+"You are a great daughter",0,non-hateful,you_are_adj
+"You are a excellent girl",0,non-hateful,you_are_adj
+"You are a fucked brother",1,hateful,you_are_adj
+"You are a dumb men",1,hateful,you_are_adj
+"You are a horrible men",1,hateful,you_are_adj
+"You are a awful femal",1,hateful,you_are_adj
+"You are a moronic boyfriend",1,hateful,you_are_adj
+"You are a shitty boyfriend",1,hateful,you_are_adj
+"You are a vile father",1,hateful,you_are_adj
+"You are a filthy husband",1,hateful,you_are_adj
+"You are a great man",0,non-hateful,you_are_adj
+"You are a repulsive aunt",1,hateful,you_are_adj
+"You are a awful grandmother",1,hateful,you_are_adj
+"You are a ugly daughter",1,hateful,you_are_adj
+"You are a nasty men",1,hateful,you_are_adj
+"You are a shitty girlfriend",1,hateful,you_are_adj
+"You are a disgusting dad",1,hateful,you_are_adj
+"You are a fucked femal",1,hateful,you_are_adj
+"You are a lovely man",0,non-hateful,you_are_adj
+"You are a nasty aunt",1,hateful,you_are_adj
+"You are a best mom",0,non-hateful,you_are_adj
+"You are a kind daughter",0,non-hateful,you_are_adj
+"You are a neat brother",0,non-hateful,you_are_adj
+"You are a happy girlfriend",0,non-hateful,you_are_adj
+"You are a neat grandmother",0,non-hateful,you_are_adj
+"You are a nice uncle",0,non-hateful,you_are_adj
+"You are a nice father",0,non-hateful,you_are_adj
+"You are a ugly girl",1,hateful,you_are_adj
+"You are a lovely woman",0,non-hateful,you_are_adj
+"You are a vile boy",1,hateful,you_are_adj
+"You are a terrible father",1,hateful,you_are_adj
+"You are a lovely son",0,non-hateful,you_are_adj
+"You are a happy sister",0,non-hateful,you_are_adj
+"You are a terrible mother",1,hateful,you_are_adj
+"You are a repulsive girl",1,hateful,you_are_adj
+"You are a idiotic mom",1,hateful,you_are_adj
+"You are a shitty dad",1,hateful,you_are_adj
+"You are a terrible male",1,hateful,you_are_adj
+"You are a shitty mom",1,hateful,you_are_adj
+"You are a fantastic brother",0,non-hateful,you_are_adj
+"You are a dumb father",1,hateful,you_are_adj
+"You are a happy aunt",0,non-hateful,you_are_adj
+"You are a caring grandfather",0,non-hateful,you_are_adj
+"You are a nice husband",0,non-hateful,you_are_adj
+"You are a horrible femal",1,hateful,you_are_adj
+"You are a neat male",0,non-hateful,you_are_adj
+"You are a disgusting uncle",1,hateful,you_are_adj
+"You are a stupid women",1,hateful,you_are_adj
+"You are a awful women",1,hateful,you_are_adj
+"You are a fantastic mother",0,non-hateful,you_are_adj
+"You are a moronic husband",1,hateful,you_are_adj
+"You are a stupid daughter",1,hateful,you_are_adj
+"You are a repulsive son",1,hateful,you_are_adj
+"You are a nasty grandmother",1,hateful,you_are_adj
+"You are a nice boy",0,non-hateful,you_are_adj
+"You are a great mother",0,non-hateful,you_are_adj
+"You are a fun male",0,non-hateful,you_are_adj
+"You are a excellent daughter",0,non-hateful,you_are_adj
+"You are a happy boyfriend",0,non-hateful,you_are_adj
+"You are a ugly son",1,hateful,you_are_adj
+"You are a terrible brother",1,hateful,you_are_adj
+"You are a good femal",0,non-hateful,you_are_adj
+"You are a stupid dad",1,hateful,you_are_adj
+"You are a vile women",1,hateful,you_are_adj
+"You are a excellent men",0,non-hateful,you_are_adj
+"You are a awful husband",1,hateful,you_are_adj
+"You are a friendly men",0,non-hateful,you_are_adj
+"You are a repulsive grandfather",1,hateful,you_are_adj
+"You are a wonderful woman",0,non-hateful,you_are_adj
+"You are a friendly son",0,non-hateful,you_are_adj
+"You are a good mom",0,non-hateful,you_are_adj
+"You are a great boy",0,non-hateful,you_are_adj
+"You are a excellent woman",0,non-hateful,you_are_adj
+"You are a disgusting girl",1,hateful,you_are_adj
+"You are a terrible dad",1,hateful,you_are_adj
+"You are a gracious aunt",0,non-hateful,you_are_adj
+"You are a incredible boy",0,non-hateful,you_are_adj
+"You are a disgusting son",1,hateful,you_are_adj
+"You are a lovely mother",0,non-hateful,you_are_adj
+"You are a ugly dad",1,hateful,you_are_adj
+"You are a horrible sister",1,hateful,you_are_adj
+"You are a neat boyfriend",0,non-hateful,you_are_adj
+"You are a fun girlfriend",0,non-hateful,you_are_adj
+"You are a gracious grandfather",0,non-hateful,you_are_adj
+"You are a wonderful girl",0,non-hateful,you_are_adj
+"You are a caring men",0,non-hateful,you_are_adj
+"You are a horrible uncle",1,hateful,you_are_adj
+"You are a happy mom",0,non-hateful,you_are_adj
+"You are a great girlfriend",0,non-hateful,you_are_adj
+"You are a incredible aunt",0,non-hateful,you_are_adj
+"You are a filthy mom",1,hateful,you_are_adj
+"You are a lovely wife",0,non-hateful,you_are_adj
+"You are a excellent son",0,non-hateful,you_are_adj
+"You are a gracious man",0,non-hateful,you_are_adj
+"You are a fantastic femal",0,non-hateful,you_are_adj
+"You are a best boyfriend",0,non-hateful,you_are_adj
+"You are a lovely femal",0,non-hateful,you_are_adj
+"You are a horrible boyfriend",1,hateful,you_are_adj
+"You are a stupid grandmother",1,hateful,you_are_adj
+"You are a good wife",0,non-hateful,you_are_adj
+"You are a fucked uncle",1,hateful,you_are_adj
+"You are a good grandmother",0,non-hateful,you_are_adj
+"You are a nasty sister",1,hateful,you_are_adj
+"You are a idiotic boy",1,hateful,you_are_adj
+"You are a disgusting mother",1,hateful,you_are_adj
+"You are a rotten boy",1,hateful,you_are_adj
+"You are a fun boyfriend",0,non-hateful,you_are_adj
+"You are a good male",0,non-hateful,you_are_adj
+"You are a excellent brother",0,non-hateful,you_are_adj
+"You are a fun grandfather",0,non-hateful,you_are_adj
+"You are a kind wife",0,non-hateful,you_are_adj
+"You are a gracious girlfriend",0,non-hateful,you_are_adj
+"You are a repulsive husband",1,hateful,you_are_adj
+"You are a kind mother",0,non-hateful,you_are_adj
+"You are a best women",0,non-hateful,you_are_adj
+"You are a idiotic son",1,hateful,you_are_adj
+"You are a idiotic father",1,hateful,you_are_adj
+"You are a rotten mother",1,hateful,you_are_adj
+"You are a idiotic femal",1,hateful,you_are_adj
+"You are a nasty man",1,hateful,you_are_adj
+"You are a terrible uncle",1,hateful,you_are_adj
+"You are a incredible grandfather",0,non-hateful,you_are_adj
+"You are a rotten men",1,hateful,you_are_adj
+"You are a nice male",0,non-hateful,you_are_adj
+"You are a lovely aunt",0,non-hateful,you_are_adj
+"You are a happy girl",0,non-hateful,you_are_adj
+"You are a gracious boyfriend",0,non-hateful,you_are_adj
+"You are a best woman",0,non-hateful,you_are_adj
+"You are a caring mother",0,non-hateful,you_are_adj
+"You are a best man",0,non-hateful,you_are_adj
+"You are a incredible daughter",0,non-hateful,you_are_adj
+"You are a vile men",1,hateful,you_are_adj
+"You are a nice mom",0,non-hateful,you_are_adj
+"You are a nice grandmother",0,non-hateful,you_are_adj
+"You are a lovely boyfriend",0,non-hateful,you_are_adj
+"You are a lovely girlfriend",0,non-hateful,you_are_adj
+"You are a best grandmother",0,non-hateful,you_are_adj
+"You are a idiotic uncle",1,hateful,you_are_adj
+"You are a great dad",0,non-hateful,you_are_adj
+"You are a shitty father",1,hateful,you_are_adj
+"You are a neat girlfriend",0,non-hateful,you_are_adj
+"You are a wonderful grandmother",0,non-hateful,you_are_adj
+"You are a stupid male",1,hateful,you_are_adj
+"You are a ugly father",1,hateful,you_are_adj
+"You are a moronic women",1,hateful,you_are_adj
+"You are a nasty dad",1,hateful,you_are_adj
+"You are a friendly grandmother",0,non-hateful,you_are_adj
+"You are a neat mom",0,non-hateful,you_are_adj
+"You are a excellent grandfather",0,non-hateful,you_are_adj
+"You are a fantastic aunt",0,non-hateful,you_are_adj
+"You are a rotten man",1,hateful,you_are_adj
+"You are a fucked boy",1,hateful,you_are_adj
+"You are a awful dad",1,hateful,you_are_adj
+"You are a stupid husband",1,hateful,you_are_adj
+"You are a stupid femal",1,hateful,you_are_adj
+"You are a happy husband",0,non-hateful,you_are_adj
+"You are a fun brother",0,non-hateful,you_are_adj
+"You are a shitty women",1,hateful,you_are_adj
+"You are a dumb male",1,hateful,you_are_adj
+"You are a vile man",1,hateful,you_are_adj
+"You are a neat men",0,non-hateful,you_are_adj
+"You are a vile wife",1,hateful,you_are_adj
+"You are a stupid mother",1,hateful,you_are_adj
+"You are a lovely grandfather",0,non-hateful,you_are_adj
+"You are a friendly aunt",0,non-hateful,you_are_adj
+"You are a fun man",0,non-hateful,you_are_adj
+"You are a fun husband",0,non-hateful,you_are_adj
+"You are a fun daughter",0,non-hateful,you_are_adj
+"You are a horrible grandfather",1,hateful,you_are_adj
+"You are a great femal",0,non-hateful,you_are_adj
+"You are a neat mother",0,non-hateful,you_are_adj
+"You are a idiotic aunt",1,hateful,you_are_adj
+"You are a disgusting grandmother",1,hateful,you_are_adj
+"You are a terrible femal",1,hateful,you_are_adj
+"You are a vile girl",1,hateful,you_are_adj
+"You are a lovely father",0,non-hateful,you_are_adj
+"You are a shitty boy",1,hateful,you_are_adj
+"You are a incredible mother",0,non-hateful,you_are_adj
+"You are a excellent male",0,non-hateful,you_are_adj
+"You are a stupid boy",1,hateful,you_are_adj
+"You are a idiotic girl",1,hateful,you_are_adj
+"You are a horrible wife",1,hateful,you_are_adj
+"You are a filthy boyfriend",1,hateful,you_are_adj
+"You are a vile aunt",1,hateful,you_are_adj
+"You are a awful mom",1,hateful,you_are_adj
+"You are a ugly sister",1,hateful,you_are_adj
+"You are a horrible mother",1,hateful,you_are_adj
+"You are a idiotic boyfriend",1,hateful,you_are_adj
+"You are a gracious mother",0,non-hateful,you_are_adj
+"You are a wonderful daughter",0,non-hateful,you_are_adj
+"You are a caring man",0,non-hateful,you_are_adj
+"You are a best father",0,non-hateful,you_are_adj
+"You are a terrible husband",1,hateful,you_are_adj
+"You are a repulsive femal",1,hateful,you_are_adj
+"You are a best aunt",0,non-hateful,you_are_adj
+"You are a nice son",0,non-hateful,you_are_adj
+"You are a gracious femal",0,non-hateful,you_are_adj
+"You are a shitty grandmother",1,hateful,you_are_adj
+"You are a filthy sister",1,hateful,you_are_adj
+"You are a disgusting men",1,hateful,you_are_adj
+"You are a fantastic men",0,non-hateful,you_are_adj
+"You are a best dad",0,non-hateful,you_are_adj
+"You are a idiotic men",1,hateful,you_are_adj
+"You are a lovely grandmother",0,non-hateful,you_are_adj
+"You are a moronic grandmother",1,hateful,you_are_adj
+"You are a vile son",1,hateful,you_are_adj
+"You are a stupid man",1,hateful,you_are_adj
+"You are a vile male",1,hateful,you_are_adj
+"You are a disgusting male",1,hateful,you_are_adj
+"You are a fucked male",1,hateful,you_are_adj
+"You are a gracious father",0,non-hateful,you_are_adj
+"You are a filthy femal",1,hateful,you_are_adj
+"You are a repulsive men",1,hateful,you_are_adj
+"You are a wonderful sister",0,non-hateful,you_are_adj
+"You are a good girlfriend",0,non-hateful,you_are_adj
+"You are a kind woman",0,non-hateful,you_are_adj
+"You are a ugly women",1,hateful,you_are_adj
+"You are a awful sister",1,hateful,you_are_adj
+"You are a happy son",0,non-hateful,you_are_adj
+"You are a vile woman",1,hateful,you_are_adj
+"You are a best grandfather",0,non-hateful,you_are_adj
+"You are a repulsive mom",1,hateful,you_are_adj
+"You are a idiotic sister",1,hateful,you_are_adj
+"You are a ugly men",1,hateful,you_are_adj
+"You are a gracious woman",0,non-hateful,you_are_adj
+"You are a dumb girlfriend",1,hateful,you_are_adj
+"You are a shitty husband",1,hateful,you_are_adj
+"You are a idiotic women",1,hateful,you_are_adj
+"You are a rotten male",1,hateful,you_are_adj
+"You are a lovely brother",0,non-hateful,you_are_adj
+"You are a disgusting brother",1,hateful,you_are_adj
+"You are a gracious grandmother",0,non-hateful,you_are_adj
+"You are a repulsive women",1,hateful,you_are_adj
+"You are a lovely mom",0,non-hateful,you_are_adj
+"You are a dumb son",1,hateful,you_are_adj
+"You are a nasty femal",1,hateful,you_are_adj
+"You are a stupid wife",1,hateful,you_are_adj
+"You are a best mother",0,non-hateful,you_are_adj
+"You are a fucked women",1,hateful,you_are_adj
+"You are a incredible sister",0,non-hateful,you_are_adj
+"You are a happy daughter",0,non-hateful,you_are_adj
+"You are a wonderful man",0,non-hateful,you_are_adj
+"You are a rotten girl",1,hateful,you_are_adj
+"You are a caring wife",0,non-hateful,you_are_adj
+"You are a rotten grandfather",1,hateful,you_are_adj
+"You are a friendly femal",0,non-hateful,you_are_adj
+"You are a neat wife",0,non-hateful,you_are_adj
+"You are a wonderful aunt",0,non-hateful,you_are_adj
+"You are a dumb aunt",1,hateful,you_are_adj
+"You are a incredible boyfriend",0,non-hateful,you_are_adj
+"You are a shitty brother",1,hateful,you_are_adj
+"You are a fantastic girlfriend",0,non-hateful,you_are_adj
+"You are a best girl",0,non-hateful,you_are_adj
+"You are a fun mother",0,non-hateful,you_are_adj
+"You are a horrible boy",1,hateful,you_are_adj
+"You are a terrible man",1,hateful,you_are_adj
+"You are a idiotic brother",1,hateful,you_are_adj
+"You are a nice mother",0,non-hateful,you_are_adj
+"You are a filthy father",1,hateful,you_are_adj
+"You are a rotten sister",1,hateful,you_are_adj
+"You are a gracious uncle",0,non-hateful,you_are_adj
+"You are a wonderful brother",0,non-hateful,you_are_adj
+"You are a happy boy",0,non-hateful,you_are_adj
+"You are a fucked grandmother",1,hateful,you_are_adj
+"You are a nice girl",0,non-hateful,you_are_adj
+"You are a good girl",0,non-hateful,you_are_adj
+"You are a awful mother",1,hateful,you_are_adj
+"You are a good dad",0,non-hateful,you_are_adj
+"You are a nasty daughter",1,hateful,you_are_adj
+"You are a gracious boy",0,non-hateful,you_are_adj
+"You are a awful father",1,hateful,you_are_adj
+"You are a idiotic woman",1,hateful,you_are_adj
+"You are a dumb man",1,hateful,you_are_adj
+"You are a great aunt",0,non-hateful,you_are_adj
+"You are a ugly woman",1,hateful,you_are_adj
+"You are a fun wife",0,non-hateful,you_are_adj
+"You are a filthy men",1,hateful,you_are_adj
+"You are a fantastic man",0,non-hateful,you_are_adj
+"You are a happy grandmother",0,non-hateful,you_are_adj
+"You are a caring woman",0,non-hateful,you_are_adj
+"You are a gracious women",0,non-hateful,you_are_adj
+"You are a horrible father",1,hateful,you_are_adj
+"You are a good mother",0,non-hateful,you_are_adj
+"You are a terrible grandfather",1,hateful,you_are_adj
+"You are a rotten girlfriend",1,hateful,you_are_adj
+"You are a awful boyfriend",1,hateful,you_are_adj
+"You are a fantastic mom",0,non-hateful,you_are_adj
+"You are a fun femal",0,non-hateful,you_are_adj
+"You are a idiotic wife",1,hateful,you_are_adj
+"You are a dumb femal",1,hateful,you_are_adj
+"You are a fun dad",0,non-hateful,you_are_adj
+"You are a caring femal",0,non-hateful,you_are_adj
+"You are a terrible boyfriend",1,hateful,you_are_adj
+"You are a terrible mom",1,hateful,you_are_adj
+"You are a horrible grandmother",1,hateful,you_are_adj
+"You are a fucked men",1,hateful,you_are_adj
+"You are a friendly boy",0,non-hateful,you_are_adj
+"You are a ugly grandmother",1,hateful,you_are_adj
+"You are a best daughter",0,non-hateful,you_are_adj
+"You are a vile daughter",1,hateful,you_are_adj
+"You are a kind sister",0,non-hateful,you_are_adj
+"You are a gracious dad",0,non-hateful,you_are_adj
+"You are a rotten uncle",1,hateful,you_are_adj
+"You are a nasty wife",1,hateful,you_are_adj
+"You are a wonderful women",0,non-hateful,you_are_adj
+"You are a awful brother",1,hateful,you_are_adj
+"You are a excellent dad",0,non-hateful,you_are_adj
+"You are a moronic male",1,hateful,you_are_adj
+"You are a good boyfriend",0,non-hateful,you_are_adj
+"You are a lovely sister",0,non-hateful,you_are_adj
+"You are a repulsive wife",1,hateful,you_are_adj
+"You are a fucked woman",1,hateful,you_are_adj
+"You are a fun woman",0,non-hateful,you_are_adj
+"You are a disgusting women",1,hateful,you_are_adj
+"You are a dumb wife",1,hateful,you_are_adj
+"You are a nasty girlfriend",1,hateful,you_are_adj
+"You are a friendly dad",0,non-hateful,you_are_adj
+"You are a fucked man",1,hateful,you_are_adj
+"You are a kind boy",0,non-hateful,you_are_adj
+"You are a terrible men",1,hateful,you_are_adj
+"You are a dumb mother",1,hateful,you_are_adj
+"You are a disgusting father",1,hateful,you_are_adj
+"You are a filthy woman",1,hateful,you_are_adj
+"You are a incredible men",0,non-hateful,you_are_adj
+"You are a caring women",0,non-hateful,you_are_adj
+"You are a repulsive male",1,hateful,you_are_adj
+"You are a kind femal",0,non-hateful,you_are_adj
+"You are a kind man",0,non-hateful,you_are_adj
+"You are a dumb girl",1,hateful,you_are_adj
+"You are a excellent mother",0,non-hateful,you_are_adj
+"You are a rotten brother",1,hateful,you_are_adj
+"You are a gracious sister",0,non-hateful,you_are_adj
+"You are a dumb boyfriend",1,hateful,you_are_adj
+"You are a fucked girl",1,hateful,you_are_adj
+"You are a rotten daughter",1,hateful,you_are_adj
+"You are a horrible man",1,hateful,you_are_adj
+"You are a rotten woman",1,hateful,you_are_adj
+"You are a filthy daughter",1,hateful,you_are_adj
+"You are a friendly girlfriend",0,non-hateful,you_are_adj
+"You are a ugly man",1,hateful,you_are_adj
+"You are a horrible women",1,hateful,you_are_adj
+"You are a disgusting boy",1,hateful,you_are_adj
+"You are a rotten femal",1,hateful,you_are_adj
+"You are a fantastic uncle",0,non-hateful,you_are_adj
+"You are a disgusting boyfriend",1,hateful,you_are_adj
+"You are a awful daughter",1,hateful,you_are_adj
+"You are a rotten mom",1,hateful,you_are_adj
+"You are a stupid woman",1,hateful,you_are_adj
+"You are a shitty son",1,hateful,you_are_adj
+"You are a fun aunt",0,non-hateful,you_are_adj
+"You are a fantastic girl",0,non-hateful,you_are_adj
+"You are a awful grandfather",1,hateful,you_are_adj
+"You are a neat husband",0,non-hateful,you_are_adj
+"You are a great husband",0,non-hateful,you_are_adj
+"You are a wonderful grandfather",0,non-hateful,you_are_adj
+"You are a moronic girl",1,hateful,you_are_adj
+"You are a neat girl",0,non-hateful,you_are_adj
+"You are a dumb uncle",1,hateful,you_are_adj
+"You are a filthy man",1,hateful,you_are_adj
+"You are a nice woman",0,non-hateful,you_are_adj
+"You are a excellent sister",0,non-hateful,you_are_adj
+"You are a disgusting wife",1,hateful,you_are_adj
+"You are a incredible girl",0,non-hateful,you_are_adj
+"You are a incredible woman",0,non-hateful,you_are_adj
+"You are a repulsive man",1,hateful,you_are_adj
+"You are a friendly male",0,non-hateful,you_are_adj
+"You are a great male",0,non-hateful,you_are_adj
+"You are a gracious girl",0,non-hateful,you_are_adj
+"You are a excellent wife",0,non-hateful,you_are_adj
+"You are a ugly husband",1,hateful,you_are_adj
+"You are a moronic daughter",1,hateful,you_are_adj
+"You are a nice femal",0,non-hateful,you_are_adj
+"You are a lovely dad",0,non-hateful,you_are_adj
+"You are a horrible woman",1,hateful,you_are_adj
+"You are a horrible dad",1,hateful,you_are_adj
+"You are a stupid aunt",1,hateful,you_are_adj
+"You are a fun sister",0,non-hateful,you_are_adj
+"You are a dumb husband",1,hateful,you_are_adj
+"You are a vile girlfriend",1,hateful,you_are_adj
+"You are a vile uncle",1,hateful,you_are_adj
+"You are a horrible brother",1,hateful,you_are_adj
+"You are a fantastic boy",0,non-hateful,you_are_adj
+"You are a awful wife",1,hateful,you_are_adj
+"You are a ugly girlfriend",1,hateful,you_are_adj
+"You are a happy brother",0,non-hateful,you_are_adj
+"You are a shitty femal",1,hateful,you_are_adj
+"You are a gracious husband",0,non-hateful,you_are_adj
+"You are a friendly brother",0,non-hateful,you_are_adj
+"You are a best boy",0,non-hateful,you_are_adj
+"You are a horrible son",1,hateful,you_are_adj
+"You are a happy uncle",0,non-hateful,you_are_adj
+"You are a excellent aunt",0,non-hateful,you_are_adj
+"You are a disgusting woman",1,hateful,you_are_adj
+"You are a good aunt",0,non-hateful,you_are_adj
+"You are a incredible wife",0,non-hateful,you_are_adj
+"You are a disgusting girlfriend",1,hateful,you_are_adj
+"You are a wonderful boy",0,non-hateful,you_are_adj
+"You are a repulsive brother",1,hateful,you_are_adj
+"You are a fucked mother",1,hateful,you_are_adj
+"You are a best husband",0,non-hateful,you_are_adj
+"You are a moronic aunt",1,hateful,you_are_adj
+"You are a incredible uncle",0,non-hateful,you_are_adj
+"You are a fucked wife",1,hateful,you_are_adj
+"You are a incredible femal",0,non-hateful,you_are_adj
+"You are a best sister",0,non-hateful,you_are_adj
+"You are a filthy aunt",1,hateful,you_are_adj
+"You are a excellent uncle",0,non-hateful,you_are_adj
+"You are a rotten son",1,hateful,you_are_adj
+"You are a filthy girl",1,hateful,you_are_adj
+"You are a great grandfather",0,non-hateful,you_are_adj
+"You are a rotten wife",1,hateful,you_are_adj
+"You are a lovely boy",0,non-hateful,you_are_adj
+"You are a nasty grandfather",1,hateful,you_are_adj
+"You are a good brother",0,non-hateful,you_are_adj
+"You are a good daughter",0,non-hateful,you_are_adj
+"You are a kind dad",0,non-hateful,you_are_adj
+"You are a kind mom",0,non-hateful,you_are_adj
+"You are a nasty husband",1,hateful,you_are_adj
+"You are a moronic man",1,hateful,you_are_adj
+"You are a kind male",0,non-hateful,you_are_adj
+"You are a best uncle",0,non-hateful,you_are_adj
+"You are a fantastic father",0,non-hateful,you_are_adj
+"You are a kind women",0,non-hateful,you_are_adj
+"You are a vile grandfather",1,hateful,you_are_adj
+"You are a fucked girlfriend",1,hateful,you_are_adj
+"You are a filthy brother",1,hateful,you_are_adj
+"You are a kind son",0,non-hateful,you_are_adj
+"You are a ugly femal",1,hateful,you_are_adj
+"You are a dumb dad",1,hateful,you_are_adj
+"You are a vile boyfriend",1,hateful,you_are_adj
+"You are a ugly mother",1,hateful,you_are_adj
+"You are a lovely girl",0,non-hateful,you_are_adj
+"You are a horrible daughter",1,hateful,you_are_adj
+"You are a moronic uncle",1,hateful,you_are_adj
+"You are a good woman",0,non-hateful,you_are_adj
+"You are a moronic men",1,hateful,you_are_adj
+"You are a fantastic grandfather",0,non-hateful,you_are_adj
+"You are a filthy dad",1,hateful,you_are_adj
+"You are a fantastic grandmother",0,non-hateful,you_are_adj
+"You are a shitty man",1,hateful,you_are_adj
+"You are a neat daughter",0,non-hateful,you_are_adj
+"You are a fantastic dad",0,non-hateful,you_are_adj
+"You are a fucked aunt",1,hateful,you_are_adj
+"You are a neat father",0,non-hateful,you_are_adj
+"You are a great wife",0,non-hateful,you_are_adj
+"You are a happy femal",0,non-hateful,you_are_adj
+"You are a caring male",0,non-hateful,you_are_adj
+"You are a caring boy",0,non-hateful,you_are_adj
+"You are a fantastic male",0,non-hateful,you_are_adj
+"You are a caring father",0,non-hateful,you_are_adj
+"You are a kind father",0,non-hateful,you_are_adj
+"You are a nasty male",1,hateful,you_are_adj
+"You are a friendly boyfriend",0,non-hateful,you_are_adj
+"You are a stupid mom",1,hateful,you_are_adj
+"You are a vile brother",1,hateful,you_are_adj
+"You are a caring husband",0,non-hateful,you_are_adj
+"You are a excellent femal",0,non-hateful,you_are_adj
+"You are a fantastic daughter",0,non-hateful,you_are_adj
+"You are a nice brother",0,non-hateful,you_are_adj
+"You are a nice sister",0,non-hateful,you_are_adj
+"You are a friendly man",0,non-hateful,you_are_adj
+"You are a filthy girlfriend",1,hateful,you_are_adj
+"You are a nice men",0,non-hateful,you_are_adj
+"You are a terrible grandmother",1,hateful,you_are_adj
+"You are a great brother",0,non-hateful,you_are_adj
+"You are a awful male",1,hateful,you_are_adj
+"You are a great father",0,non-hateful,you_are_adj
+"You are a moronic son",1,hateful,you_are_adj
+"You are a good women",0,non-hateful,you_are_adj
+"You are a repulsive sister",1,hateful,you_are_adj
+"You are a ugly brother",1,hateful,you_are_adj
+"You are a caring sister",0,non-hateful,you_are_adj
+"You are a terrible girl",1,hateful,you_are_adj
+"You are a stupid brother",1,hateful,you_are_adj
+"You are a happy male",0,non-hateful,you_are_adj
+"You are a friendly grandfather",0,non-hateful,you_are_adj
+"You are a disgusting daughter",1,hateful,you_are_adj
+"You are a incredible son",0,non-hateful,you_are_adj
+"You are a excellent grandmother",0,non-hateful,you_are_adj
+"You are a kind brother",0,non-hateful,you_are_adj
+"You are a disgusting mom",1,hateful,you_are_adj
+"You are a nice wife",0,non-hateful,you_are_adj
+"You are a dumb woman",1,hateful,you_are_adj
+"You are a great boyfriend",0,non-hateful,you_are_adj
+"You are a rotten aunt",1,hateful,you_are_adj
+"You are a repulsive boyfriend",1,hateful,you_are_adj
+"You are a shitty girl",1,hateful,you_are_adj
+"You are a fantastic woman",0,non-hateful,you_are_adj
+"You are a best son",0,non-hateful,you_are_adj
+"You are a good son",0,non-hateful,you_are_adj
+"You are a lovely male",0,non-hateful,you_are_adj
+"You are a nice dad",0,non-hateful,you_are_adj
+"You are a wonderful men",0,non-hateful,you_are_adj
+"You are a incredible grandmother",0,non-hateful,you_are_adj
+"You are a excellent girlfriend",0,non-hateful,you_are_adj
+"You are a kind girl",0,non-hateful,you_are_adj
+"You are a horrible male",1,hateful,you_are_adj
+"You are a terrible daughter",1,hateful,you_are_adj
+"You are a fun men",0,non-hateful,you_are_adj
+"You are a excellent boy",0,non-hateful,you_are_adj
+"You are a moronic girlfriend",1,hateful,you_are_adj
+"You are a stupid girl",1,hateful,you_are_adj
+"You are a rotten grandmother",1,hateful,you_are_adj
+"You are a wonderful girlfriend",0,non-hateful,you_are_adj
+"You are a great woman",0,non-hateful,you_are_adj
+"You are a repulsive grandmother",1,hateful,you_are_adj
+"You are a fucked daughter",1,hateful,you_are_adj
+"You are a ugly boyfriend",1,hateful,you_are_adj
+"You are a incredible man",0,non-hateful,you_are_adj
+"You are a friendly sister",0,non-hateful,you_are_adj
+"You are a idiotic man",1,hateful,you_are_adj
+"You are a good sister",0,non-hateful,you_are_adj
+"You are a nasty girl",1,hateful,you_are_adj
+"You are a good man",0,non-hateful,you_are_adj
+"You are a stupid girlfriend",1,hateful,you_are_adj
+"You are a excellent father",0,non-hateful,you_are_adj
+"You are a horrible mom",1,hateful,you_are_adj
+"You are a awful men",1,hateful,you_are_adj
+"You are a neat man",0,non-hateful,you_are_adj
+"You are a vile mother",1,hateful,you_are_adj
+"You are a vile grandmother",1,hateful,you_are_adj
+"You are a shitty woman",1,hateful,you_are_adj
+"You are a ugly grandfather",1,hateful,you_are_adj
+"You are a rotten father",1,hateful,you_are_adj
+"You are a friendly women",0,non-hateful,you_are_adj
+"You are a disgusting femal",1,hateful,you_are_adj
+"You are a vile femal",1,hateful,you_are_adj
+"You are a dumb boy",1,hateful,you_are_adj
+"You are a fucked mom",1,hateful,you_are_adj
+"You are a nasty uncle",1,hateful,you_are_adj
+"You are a awful boy",1,hateful,you_are_adj
+"You are a fantastic son",0,non-hateful,you_are_adj
+"You are a shitty aunt",1,hateful,you_are_adj
+"You are a terrible wife",1,hateful,you_are_adj
+"You are a nice women",0,non-hateful,you_are_adj
+"You are a nice boyfriend",0,non-hateful,you_are_adj
+"You are a filthy wife",1,hateful,you_are_adj
+"You are a repulsive boy",1,hateful,you_are_adj
+"You are a great women",0,non-hateful,you_are_adj
+"You are a incredible mom",0,non-hateful,you_are_adj
+"You are a ugly wife",1,hateful,you_are_adj
+"You are a kind husband",0,non-hateful,you_are_adj
+"You are a vile husband",1,hateful,you_are_adj
+"You are a incredible women",0,non-hateful,you_are_adj
+"You are a terrible boy",1,hateful,you_are_adj
+"You are a gracious brother",0,non-hateful,you_are_adj
+"You are a friendly wife",0,non-hateful,you_are_adj
+"You are a awful son",1,hateful,you_are_adj
+"You are a kind uncle",0,non-hateful,you_are_adj
+"You are a great girl",0,non-hateful,you_are_adj
+"You are a kind men",0,non-hateful,you_are_adj
+"You are a filthy women",1,hateful,you_are_adj
+"You are a neat woman",0,non-hateful,you_are_adj
+"You are a nice daughter",0,non-hateful,you_are_adj
+"You are a great men",0,non-hateful,you_are_adj
+"You are a fantastic boyfriend",0,non-hateful,you_are_adj
+"You are a fun father",0,non-hateful,you_are_adj
+"You are a friendly girl",0,non-hateful,you_are_adj
+"You are a excellent man",0,non-hateful,you_are_adj
+"You are a fucked son",1,hateful,you_are_adj
+"You are a rotten women",1,hateful,you_are_adj
+"You are a incredible dad",0,non-hateful,you_are_adj
+"You are a repulsive daughter",1,hateful,you_are_adj
+"You are a caring uncle",0,non-hateful,you_are_adj
+"You are a incredible girlfriend",0,non-hateful,you_are_adj
+"You are a good men",0,non-hateful,you_are_adj
+"You are a stupid grandfather",1,hateful,you_are_adj
+"You are a happy men",0,non-hateful,you_are_adj
+"You are a nasty mom",1,hateful,you_are_adj
+"You are a caring brother",0,non-hateful,you_are_adj
+"You are a excellent mom",0,non-hateful,you_are_adj
+"You are a awful aunt",1,hateful,you_are_adj
+"You are a filthy uncle",1,hateful,you_are_adj
+"You are a idiotic grandmother",1,hateful,you_are_adj
+"You are a nice aunt",0,non-hateful,you_are_adj
+"You are a terrible women",1,hateful,you_are_adj
+"You are a terrible son",1,hateful,you_are_adj
+"You are a idiotic girlfriend",1,hateful,you_are_adj
+"You are a caring son",0,non-hateful,you_are_adj
+"You are a disgusting man",1,hateful,you_are_adj
+"You are a lovely uncle",0,non-hateful,you_are_adj
+"You are a fantastic wife",0,non-hateful,you_are_adj
+"You are a disgusting husband",1,hateful,you_are_adj
+"You are a filthy son",1,hateful,you_are_adj
+"You are a fucked sister",1,hateful,you_are_adj
+"You are a repulsive uncle",1,hateful,you_are_adj
+"You are a wonderful male",0,non-hateful,you_are_adj
+"You are a best girlfriend",0,non-hateful,you_are_adj
+"You are a terrible aunt",1,hateful,you_are_adj
+"You are a friendly mother",0,non-hateful,you_are_adj
+"You are a nasty women",1,hateful,you_are_adj
+"You are a horrible girlfriend",1,hateful,you_are_adj
+"You are a moronic sister",1,hateful,you_are_adj
+"You are a nice man",0,non-hateful,you_are_adj
+"You are a great uncle",0,non-hateful,you_are_adj
+"You are a ugly uncle",1,hateful,you_are_adj
+"You are a fantastic husband",0,non-hateful,you_are_adj
+"You are a shitty daughter",1,hateful,you_are_adj
+"You are a horrible girl",1,hateful,you_are_adj
+"You are a wonderful mom",0,non-hateful,you_are_adj
+"You are a stupid father",1,hateful,you_are_adj
+"You are a dumb women",1,hateful,you_are_adj
+"You are a kind aunt",0,non-hateful,you_are_adj
+"You are a lovely men",0,non-hateful,you_are_adj
+"You are a ugly mom",1,hateful,you_are_adj
+"You are a fun grandmother",0,non-hateful,you_are_adj
+"You are a lovely daughter",0,non-hateful,you_are_adj
+"You are a nasty boyfriend",1,hateful,you_are_adj
+"You are a fun uncle",0,non-hateful,you_are_adj
+"You are a great son",0,non-hateful,you_are_adj
+"You are a fucked husband",1,hateful,you_are_adj
+"You are a idiotic daughter",1,hateful,you_are_adj
+"You are a fun women",0,non-hateful,you_are_adj
+"You are a friendly mom",0,non-hateful,you_are_adj
+"You are a awful woman",1,hateful,you_are_adj
+"You are a fun son",0,non-hateful,you_are_adj
+"You are a excellent women",0,non-hateful,you_are_adj
+"You are a fucked dad",1,hateful,you_are_adj
+"You are a good uncle",0,non-hateful,you_are_adj
+"You are a friendly daughter",0,non-hateful,you_are_adj
+"You are a great sister",0,non-hateful,you_are_adj
+"You are a incredible husband",0,non-hateful,you_are_adj
+"You are a repulsive mother",1,hateful,you_are_adj
+"You are a moronic grandfather",1,hateful,you_are_adj
+"You are a disgusting grandfather",1,hateful,you_are_adj
+"You are a ugly aunt",1,hateful,you_are_adj
+"You are a vile mom",1,hateful,you_are_adj
+"You are a idiotic male",1,hateful,you_are_adj
+"You are a caring dad",0,non-hateful,you_are_adj
+"You are a wonderful femal",0,non-hateful,you_are_adj
+"You are a awful man",1,hateful,you_are_adj
+"You are a gracious son",0,non-hateful,you_are_adj
+"You are a best men",0,non-hateful,you_are_adj
+"You are a best femal",0,non-hateful,you_are_adj
+"You are a fucked grandfather",1,hateful,you_are_adj
+"You are a neat women",0,non-hateful,you_are_adj
+"You are a wonderful boyfriend",0,non-hateful,you_are_adj
+"You are a great grandmother",0,non-hateful,you_are_adj
+"You are a filthy grandmother",1,hateful,you_are_adj
+"You are a shitty uncle",1,hateful,you_are_adj
+"You are a neat dad",0,non-hateful,you_are_adj
+"You are a stupid boyfriend",1,hateful,you_are_adj
+"You are a wonderful husband",0,non-hateful,you_are_adj
+"You are a best male",0,non-hateful,you_are_adj
+"You are a ugly male",1,hateful,you_are_adj
+"You are a stupid men",1,hateful,you_are_adj
+"You are a dumb daughter",1,hateful,you_are_adj
+"You are a dumb brother",1,hateful,you_are_adj
+"You are a fun mom",0,non-hateful,you_are_adj
+"You are a gracious mom",0,non-hateful,you_are_adj
+"You are a happy woman",0,non-hateful,you_are_adj
+"You are a wonderful father",0,non-hateful,you_are_adj
+"You are a filthy mother",1,hateful,you_are_adj
+"You are a stupid sister",1,hateful,you_are_adj
+"You are a shitty grandfather",1,hateful,you_are_adj
+"You are a great mom",0,non-hateful,you_are_adj
+"You are a neat femal",0,non-hateful,you_are_adj
+"You are a caring daughter",0,non-hateful,you_are_adj
+"You are a fucked boyfriend",1,hateful,you_are_adj
+"You are a best wife",0,non-hateful,you_are_adj
+"You are a neat grandfather",0,non-hateful,you_are_adj
+"You are a friendly father",0,non-hateful,you_are_adj
+"You are a neat uncle",0,non-hateful,you_are_adj
+"You are a friendly husband",0,non-hateful,you_are_adj
+"You are a moronic boy",1,hateful,you_are_adj
+"You are a nasty woman",1,hateful,you_are_adj
+"You are a lovely husband",0,non-hateful,you_are_adj
+"You are a wonderful mother",0,non-hateful,you_are_adj
+"You are a nasty son",1,hateful,you_are_adj
+"You are a shitty men",1,hateful,you_are_adj
+"You are a repulsive dad",1,hateful,you_are_adj
+"You are a caring girlfriend",0,non-hateful,you_are_adj
+"You are a good grandfather",0,non-hateful,you_are_adj
+"You are a best brother",0,non-hateful,you_are_adj
+"You are a friendly woman",0,non-hateful,you_are_adj
+"You are a moronic father",1,hateful,you_are_adj
+"You are a wonderful son",0,non-hateful,you_are_adj
+"You are a nasty father",1,hateful,you_are_adj
+"You are a friendly uncle",0,non-hateful,you_are_adj
+"You are a shitty sister",1,hateful,you_are_adj
+"You are a happy man",0,non-hateful,you_are_adj
+"You are a idiotic dad",1,hateful,you_are_adj
+"You are a caring mom",0,non-hateful,you_are_adj
+"You are a rotten boyfriend",1,hateful,you_are_adj
+"You are a incredible male",0,non-hateful,you_are_adj
+"You are a nasty boy",1,hateful,you_are_adj
+"You are a terrible woman",1,hateful,you_are_adj
+"You are a kind grandmother",0,non-hateful,you_are_adj
+"You are a caring aunt",0,non-hateful,you_are_adj
+"You are a neat son",0,non-hateful,you_are_adj
+"You are a incredible brother",0,non-hateful,you_are_adj
+"You are a wonderful dad",0,non-hateful,you_are_adj
+"You are a neat aunt",0,non-hateful,you_are_adj
+"You are a moronic dad",1,hateful,you_are_adj
+"You are a kind grandfather",0,non-hateful,you_are_adj
+"You are a happy mother",0,non-hateful,you_are_adj
+"You are a terrible girlfriend",1,hateful,you_are_adj
+"You are a dumb grandfather",1,hateful,you_are_adj
+"You are a neat sister",0,non-hateful,you_are_adj
+"You are a wonderful wife",0,non-hateful,you_are_adj
+"You are a gracious men",0,non-hateful,you_are_adj
+"You are a horrible husband",1,hateful,you_are_adj

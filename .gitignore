@@ -2,7 +2,7 @@
 venv/
 
 # Ignore all text files
-*.txt
+#*.txt
 
 # pickle file 
 *.pickle
