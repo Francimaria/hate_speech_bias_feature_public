@@ -7,7 +7,7 @@
 The idea is to build sentences changing only the identity term, for instance, "**Women** should be protected" and "**Men** should be protected".
 We define several templates filled with the terms described in bias_data. Thus, each identity term occurs in the same context. 
 
-We save the dataset as pickle file.
+We save the dataset as a pickle file.
 
 <!-- The synthetic test set created comprises 1,248 samples, of which 648 are non-hateful, and 600 are hateful, and all identity terms appear in the same contexts.  -->
 
@@ -15,7 +15,7 @@ We save the dataset as pickle file.
 
 ### Requirements and installation:
 
-This code requires Python >= 3.6.5, Zeugma, Scikit-learn, Pandas, NLTK, Matplotlib. Environment can be installed using the following command:
+This code requires Python >= 3.6.5, Zeugma, Scikit-learn, Pandas, NLTK, and Matplotlib. Environment can be installed using the following command:
 
 ```bash
 $ cd path_fold
@@ -40,22 +40,6 @@ $ python feature_extraction.py --dataset_names WH
 $ python feature_extraction.py --dataset_names HE
 ```
 
-### Running train classifiers
-
-```bash
-$ python train_clf.py
-```
-
-* For each dataset
-
-```bash
-$ python train_clf.py --dataset_names WH
-```
-
-```bash
-$ python train_clf.py --dataset_names HE
-```
-
 
 ### Running param select
 
@@ -75,6 +59,22 @@ $ python train_clf_param_select.py --dataset_names WH
 $ python train_clf_param_select.py --dataset_names HE
 ```
 
+### Running train classifiers
+
+```bash
+$ python train_clf.py
+```
+
+* For each dataset
+
+```bash
+$ python train_clf.py --dataset_names WH
+```
+
+```bash
+$ python train_clf.py --dataset_names HE
+```
+
 ## 2. Running with sbatch on the cluster
 
 1. running code
@@ -83,7 +83,7 @@ $ python train_clf_param_select.py --dataset_names HE
 $ sbatch run_job.sh
 ```
 
-2. see result
+2. See the result
 
 ```bash
 $ cat job_output.txt
